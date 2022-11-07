@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-// program to shuffle the deck of cards
+// program to shuffle the deck of cards GREG ADDED
 
 // declare card elements
 const suits = ["Spades", "Diamonds", "Club", "Heart"];
